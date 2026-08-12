@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "aida-standalone-mcp": {
+      "url": "http://127.0.0.1:29117/mcp"
+    },
+    "scrap-mechanic-manager": {
+      "command": "cargo",
+      "args": [
+        "run",
+        "--release",
+        "--manifest-path",
+        "scrap-mechanic-mcp/Cargo.toml"
+      ],
+      "cwd": "."
+    }
+  }
+}
