@@ -1,4 +1,4 @@
-# Scrap Mechanic Research — AiDAStandalone Codex plugin
+# Scrap Mechanic Research - AiDAStandalone Codex plugin
 
 This repository is both the installable Codex plugin and its small marketplace catalog. It contains Scrap Mechanic reverse-engineering skills written for the `aida-standalone-mcp` server and the Rust game-process MCP manager.
 

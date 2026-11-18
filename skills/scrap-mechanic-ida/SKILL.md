@@ -105,7 +105,7 @@ For every result, preserve:
 - confirmation status and confidence;
 - unresolved alternatives or version-specific assumptions.
 
-Use names from source strings, assertions, RTTI, and surrounding code as evidence—not as automatic truth. Distinguish client, server, and shared systems, especially for manager globals and Lua environments.
+Use names from source strings, assertions, RTTI, and surrounding code as evidence - not as automatic truth. Distinguish client, server, and shared systems, especially for manager globals and Lua environments.
 
 ## Output Format
 
